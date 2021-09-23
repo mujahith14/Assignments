@@ -4,7 +4,7 @@ I want to improve my communication Skill
 I want to be a full stack developer also"""
 print(mytarget)
 
-#Finding lenght and count of the particular String
+#Finding length and count of the particular String
 mytext="India is my country and all Indians are my brothers and sisters"
 print(len(mytext))
 print(mytext.count("my"))
